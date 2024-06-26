@@ -2,7 +2,7 @@
 title: "Human Development Indicators Analysis"
 format:
   revealjs:
-    theme: serif
+    theme: moon
     slideNumber: true
     css: custom.css
 ---
